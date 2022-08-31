@@ -10,20 +10,8 @@
   las Especificaciones Técnicas de tu tarjeta en:
   https://www.arduino.cc/en/Main/Products
 
-  modified 8 May 2014
-  by Scott Fitzgerald
-  modified 2 Sep 2016
-  by Arturo Guadalupi
-  modified 8 Sep 2016
-  by Colby Newman
-
-  Adaptado al español 
-  por Felipe Flores
-
   Este ejemplo es de dominio público.
-
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
-
 
 */
 
