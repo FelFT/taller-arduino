@@ -10,7 +10,7 @@ char teclas[filas][columnas] = {
  { '#','0','*', 'D' }
 };
 
-const byte filasPines[pines] = { 11, 10, 9, 8 };
+const byte filasPines[filas] = { 11, 10, 9, 8 };
 const byte columnasPines[columnas] = { 7, 6, 5, 4 };
  
 Keypad keypad = Keypad(makeKeymap(teclas), filasPines, columnasPines, filas, columnas);
